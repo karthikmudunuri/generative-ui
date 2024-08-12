@@ -23,7 +23,9 @@
 
 <div align="center">
 
- <img width="1425" alt="Portfolio-template" src="https://github.com/user-attachments/assets/265fa13e-98ed-4c99-bd7f-ce7efe19627f">
+
+
+ <img width="1425" alt="generative-ui" src="https://github.com/user-attachments/assets/24b3f24c-86c4-46e2-b78d-cc9569b4c4cc">
 
  
 </div>
