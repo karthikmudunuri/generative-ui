@@ -20,7 +20,7 @@
 </div>
 
 <!-- ABOUT THE TEMPLATE -->
-
+# Generative UI
 <div align="center">
 
 
@@ -30,7 +30,7 @@
  
 </div>
 
-# Generative UI
+
 
 # Getting Started Locally
 
