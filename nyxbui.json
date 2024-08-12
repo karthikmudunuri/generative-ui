@@ -1,0 +1,17 @@
+{
+  "$schema": "https://nyxbui.design/schema.json",
+  "aliases": {
+    "components": "~/components",
+    "utils": "~/lib/utils"
+  },
+  "rsc": true,
+  "style": "miami",
+  "tailwind": {
+    "baseColor": "neutral",
+    "config": "tailwind.config.ts",
+    "css": "styles/globals.css",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "tsx": true
+}
